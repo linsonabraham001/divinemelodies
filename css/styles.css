@@ -745,33 +745,13 @@ section p + p {
     opacity: 1;
 }
 
-.pillar-icon {
-    width: 58px;
-    height: 58px;
-    border-radius: 16px;
-    display: grid;
-    place-items: center;
-    margin-bottom: 26px;
-    background: rgba(233, 201, 121, 0.1);
-    border: 1px solid var(--glass-border);
-}
-
-.pillar-icon svg {
-    width: 30px;
-    height: 30px;
-    fill: none;
-    stroke: var(--gold);
-    stroke-width: 2;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-
 .pillar h3 {
     font-family: var(--font-display);
     font-weight: 500;
     font-size: 1.45rem;
+    line-height: 1.25;
     color: var(--cream);
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
 .pillar p {
