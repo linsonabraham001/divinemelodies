@@ -55,7 +55,6 @@ display:flex;align-items:center;gap:56px;padding:0 80px;box-sizing:border-box;fo
 img{width:420px;height:420px;filter:drop-shadow(0 20px 40px rgba(0,0,0,.5))}
 h1{font-family:Cinzel,Georgia,serif;color:#f7efd9;font-size:72px;letter-spacing:6px;margin:0;line-height:1.05}
 p{color:#e9c979;font-size:30px;margin:18px 0 0;font-style:italic}
-small{display:block;color:#b9bfe6;font-size:22px;letter-spacing:8px;margin-top:28px;font-family:Cinzel,Georgia,serif}
 """.replace("CINZEL_URI", (FONTS / "cinzel.woff2").as_uri()),
        f'<img src="{logo_uri}"><div><h1>DIVINE<br>MELODIES</h1>'
-       '<p>Singing for the Glory of God</p><small>DALLAS · FORT WORTH</small></div>')
+       '<p>Singing for the Glory of God</p></div>')

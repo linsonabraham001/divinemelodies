@@ -160,7 +160,7 @@
             if (!response.ok) throw new Error('Request failed');
             form.reset();
             setStatus('Thank you for your message! We will get back to you soon. God bless!', 'success');
-        } catch (err) {
+        } catch {
             setStatus('Sorry, something went wrong sending your message. Please try again shortly.', 'error');
         } finally {
             button.disabled = false;

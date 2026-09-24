@@ -1,6 +1,6 @@
 # Divine Melodies
 
-Website for **Divine Melodies** — a group of Christian musicians from the Dallas–Fort Worth area, dedicated to evangelization through music and worship. Live at [divinemelodies.org](https://divinemelodies.org).
+Website for **Divine Melodies** — a group of Christian musicians dedicated to evangelization through music and worship. Live at [divinemelodies.org](https://divinemelodies.org).
 
 ## Structure
 
