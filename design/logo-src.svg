@@ -4,7 +4,7 @@
     <style>
 /*FONTS*/
       .arc  { font-family: 'Cinzel', Georgia, serif; font-weight: 600; font-size: 26.5px; letter-spacing: 1.2px; fill: #f7efd9; }
-      .ref  { font-family: 'Cinzel', Georgia, serif; font-weight: 700; font-size: 26px; letter-spacing: 6px; fill: #e9c979; }
+      .ref  { font-family: 'Cinzel', Georgia, serif; font-weight: 700; font-size: 23px; letter-spacing: 3px; fill: #e9c979; }
       .div  { font-family: 'Cinzel', Georgia, serif; font-weight: 700; font-size: 42px; letter-spacing: 18px; fill: #f7efd9; }
       .mel  { font-family: 'Cinzel Decorative', 'Cinzel', Georgia, serif; font-weight: 700; font-size: 80px; letter-spacing: 3px; }
     </style>
@@ -65,12 +65,12 @@
   <circle cx="500" cy="420" r="230" fill="url(#halo)"/>
 
   <!-- Reference with star emblems -->
-  <g transform="translate(340 218)" fill="#e9c979">
+  <g transform="translate(318 218)" fill="#e9c979">
     <!-- five-point star -->
     <polygon points="0,-14 4.1,-4.3 14.3,-4.3 6.1,2.1 8.8,12.3 0,6.3 -8.8,12.3 -6.1,2.1 -14.3,-4.3 -4.1,-4.3"/>
   </g>
-  <text class="ref" x="503" y="227" text-anchor="middle">COLO. 3:16</text>
-  <g transform="translate(660 216)" fill="none" stroke="#e9c979" stroke-width="2.6" stroke-linejoin="round">
+  <text class="ref" x="501.5" y="226" text-anchor="middle">COLOSSIANS 3:16</text>
+  <g transform="translate(682 216)" fill="none" stroke="#e9c979" stroke-width="2.6" stroke-linejoin="round">
     <!-- Star of David -->
     <polygon points="0,-15 13,7.5 -13,7.5"/>
     <polygon points="0,15 13,-7.5 -13,-7.5"/>
